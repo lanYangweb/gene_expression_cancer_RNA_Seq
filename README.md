@@ -12,7 +12,7 @@ This project contains **biostatistical analysis and feature selection** on genom
    - **Running time:** ~10 minutes.  
    - You can either download the `.ipynb` file or click **Open in Colab** above to run it online.
 
-2. **[Test_on_features_selection_Lan_YANG.ipynb](https://github.com/lanYangweb/gene_expression_cancer_RNA_Seq/blob/main/Test_on_features_selection_Lan_YANG.ipynb)**  
+2. **[Test_on_features_selection_Lan_YANG.ipynb](https://github.com/lanYangweb/gene_expression_cancer_RNA_Seq/blob/main/Test_on_featrues_selection_Lan_YANG.ipynb)**  
    - Feature selection test using **Random Forest**.  
    - Optimal performance achieved with **10 estimators**, selecting **193 features** (genes).  
    - **Running time:** ~7 minutes.
