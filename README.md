@@ -1,10 +1,38 @@
-1. 'Projet_Biostat_Lan_YANG.ipynb': 
-   The whole model codes on google colab notebook format for this project, the datasets(data.rar and labels.csv in this file) are charged through url links in this notebook.
-   To run it in google colab, you can download the .ipynb file or just click on the 'Open In Colab' at the head of the code.    
-   Running the whole codes can take about 10 mins. 
+# Projet Biostat – Lan YANG 🧬
 
-3. 'Test_on_featrues_selection_Lan_YANG.ipynb': 
-   For the test on features selection using random forest method, finally, number of estimators = 10 turns to be the minimum number of estimators to achieve the optimal performance, at this number, 193 features (genes) are selected in this project, nearly the number of test datasets. 
-   Running the whole codes can take about 7 mins.
+This project contains **biostatistical analysis and feature selection** on genomic datasets using Python. All codes are provided as **Google Colab notebooks**, with datasets loaded via URL.
 
-4. data.rar and labels.csv: resource files of datasets
+---
+
+## 📁 Project Files
+
+1. **[Projet_Biostat_Lan_YANG.ipynb](https://colab.research.google.com/github/ISDouglas/Projet_Biostat_Lan_YANG/blob/main/Projet_Biostat_Lan_YANG.ipynb)**  
+   - Complete model codes for the project.  
+   - Datasets (`data.rar` and `labels.csv`) are loaded through URLs inside the notebook.  
+   - **Running time:** ~10 minutes.  
+   - You can either download the `.ipynb` file or click **Open in Colab** above to run it online.
+
+2. **[Test_on_features_selection_Lan_YANG.ipynb](https://colab.research.google.com/github/ISDouglas/Projet_Biostat_Lan_YANG/blob/main/Test_on_features_selection_Lan_YANG.ipynb)**  
+   - Feature selection test using **Random Forest**.  
+   - Optimal performance achieved with **10 estimators**, selecting **193 features** (genes).  
+   - **Running time:** ~7 minutes.
+
+3. **`data.rar` and `labels.csv`**  
+   - Dataset resources used in both notebooks.  
+
+---
+
+## ⚡ Usage
+
+1. Click the **Colab links** above or open the notebooks in Google Colab.  
+2. Make sure the datasets are accessible via the URLs provided in the notebooks.  
+3. Run all cells sequentially. Execution may take ~7–10 minutes depending on the notebook.
+
+---
+
+## 📝 Notes
+
+- Ensure you have a **Google account** to use Colab.  
+- Recommended to run in **GPU runtime** if available (for faster computations).  
+- All results are reproducible with the provided datasets and notebooks.
+ data.rar and labels.csv: resource files of datasets
