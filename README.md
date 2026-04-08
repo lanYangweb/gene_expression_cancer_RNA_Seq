@@ -1,7 +1,8 @@
 # Projet Biostat – Lan YANG 🧬
 
 This project contains **biostatistical analysis and feature selection** on genomic datasets using Python. All codes are provided as **Google Colab notebooks**, with datasets loaded via URL.
-
+<p align="center">  🌍 Preview of Project</p>
+<p align="center"><img src="cancer_rna_seq_ml_pipeline.png" /></p>
 ---
 
 ## 📁 Project Files
